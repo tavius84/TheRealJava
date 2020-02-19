@@ -1,4 +1,5 @@
 public class MediaLib {
+
     public static void main(String[] args) {
         double totalCost = 0;
         double aveRating = 0;
